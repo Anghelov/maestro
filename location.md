@@ -1,6 +1,5 @@
 # Locatia Noastra
 
----
 
 ## Deocamdata doar in Brasov
 ### La adresa: Bulevardul Eroilor 3A, Brașov 500007
