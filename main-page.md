@@ -12,6 +12,8 @@
 
 ## [GOTO Location](https://github.com/dezGusty/maestro/blob/master/location.md)
 
+## [GOTO Menu](https://github.com/dezGusty/maestro/blob/master/menu.md)
+
 # Some other pictures from location:
 
 ![Maestro](/pics/restaurant-pic.jpeg)
