@@ -11,3 +11,11 @@
 ## [Check out our customer's reviews](reviews-feedback-page.md)
 
 ## [GOTO Location](https://github.com/dezGusty/maestro/blob/master/location.md)
+
+# Some other pictures from location:
+
+![Maestro](/pics/restaurant-pic.jpeg)
+
+![Maestro](/pics/restaurant-pic-2.jpg)
+
+![Maestro](/pics/restaurant-pic-3.jpg)
