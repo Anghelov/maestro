@@ -1,5 +1,5 @@
 # Pizza
-<img src="pics/cover-pizza.png" width=650, height=150>
+<img src="../pics/cover-pizza.png" width=650, height=150>
 <br>
 
 <br>
