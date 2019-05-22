@@ -1,6 +1,6 @@
 # Baked squash
 
-![baked-squash](pics/backed-squash.jpg "Vegan Recipe")
+![baked-squash](pics/baked-squash.jpg "Vegan Recipe")
 
 ## Ingredients
 1 butternut squash , (1.2kg)
