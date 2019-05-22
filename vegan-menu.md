@@ -1,3 +1,3 @@
-# Our tasty menu:
+# Vegan Recipes
 
-## [Fluffy American Pancakes](/menu-items/pancakes.md)
+## [First Vegan Recipe]()
