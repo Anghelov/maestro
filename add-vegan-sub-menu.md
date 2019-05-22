@@ -2,6 +2,6 @@
 
 <ul>
   <li><a href="vegan-recipe-1.md">Cream Lentil Soup – vegan</a></li>
-  <li>Basmati Rice with Vegetables and Mushrooms </li>
+  <li><a href="baked-squash.md">Baked squash</a></li>
   <li>Whole Wheat Bread </li>
 </ul>  
