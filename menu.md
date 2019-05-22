@@ -4,4 +4,5 @@
 
 ## [Vegan menu](https://github.com/dezGusty/maestro/blob/master/vegan-menu.md)
 
-<button href="https://github.com/dezGusty/maestro/blob/master/main-page.md">Back to Main Page</button>
+
+### [==Back to Main Page==](https://github.com/dezGusty/maestro/blob/master/main-page.md)
