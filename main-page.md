@@ -6,3 +6,5 @@
 ### The only location with swimming pool and terrace overlooking the sea where you can serve fresh, very varied fish, from anchovies to shark, halibut or tilapia, all fresh.
 
 ![Maestro](https://www.wininganddining.co.za/gallery/1626-26212-header.jpg)
+
+## [Check out our customer's reviews](reviews-feedback-page.md)
