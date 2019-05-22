@@ -1,7 +1,7 @@
-# Locatia Noastra
+# Where you can find us!
 
 
-## Deocamdata doar in Brasov
-### La adresa: Bulevardul Eroilor 3A, Brașov 500007
+## Today in Brasov, Tomorrow in all of Romania!
+### Adress: Bulevardul Eroilor 3A, Brașov 500007
 
 Google Maps: https://goo.gl/maps/bkgXnu4n7Z65HpqS9 
