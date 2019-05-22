@@ -7,4 +7,7 @@
 
 ![Maestro](https://www.wininganddining.co.za/gallery/1626-26212-header.jpg)
 
+
 ## [Check out our customer's reviews](reviews-feedback-page.md)
+
+## [GOTO Location](https://github.com/dezGusty/maestro/blob/master/location.md)
