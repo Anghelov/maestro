@@ -20,3 +20,5 @@
 * Ivo Skele - Head Waiter
 * Leonor Da Silva - Waitress
 * Ivana Piljic - Waitress
+
+![Team](pics/chefs.jpg "Chefs")
