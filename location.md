@@ -6,7 +6,4 @@
 
 Google Maps: https://goo.gl/maps/bkgXnu4n7Z65HpqS9 
 
-![logo](location-small-maps.jpg "Title")
-
-
-![Maps](location-small-maps.jpg "Title")
+![Maps](pics/location-small-maps.jpg "Title")
