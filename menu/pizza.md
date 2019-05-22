@@ -14,6 +14,6 @@ Pizza este un fel de mâncare cu originea în Napoli, Italia. Este o pâine plat
     3. Vegetariana<br>
     <p>Ingrediente: Sos tomate, mozzarella, vanata coapta, dovlecel copt, ardei rosu, ciuperci, ceapa rosie, oregano. </p>
     4. Calzone<br>
-    <p> Ingrediente: Sos tomate, mozzarella, sunca, salam uscat, porumb.
+    <p> Ingrediente: Sos tomate, mozzarella, sunca, salam uscat, porumb.</p>
     5. Mexicana<br>
     <p> Ingrediente: Sos tomate, bacon, mozzarella,parmesan, ceapa, ardei iute, porumb.</p>
