@@ -1,0 +1,2 @@
+## ovejdanie_gabriel script
+
